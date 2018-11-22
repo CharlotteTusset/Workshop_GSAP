@@ -1,9 +1,9 @@
 # Workshop_AnimJS-GSAP
 
-Workshop made by Antoni, [link to repo](https://github.com/tonidano/Workshop_AnimJS-GSAP)
+Workshop made by Antoni Dalle Nogare, here is the [link to repo](https://github.com/tonidano/Workshop_AnimJS-GSAP), go check it! 
 
 ## Documentation and installation
-*	[GSAP](https://greensock.com/get-started-js)
+*  [GSAP](https://greensock.com/get-started-js)
 * [examples](https://greensock.com/examples-showcases)
 
 ![GSAP](https://github.com/tonidano/Workshop_AnimJS-GSAP/blob/master/assets/images/greensock-logo.svg)
@@ -15,14 +15,13 @@ Workshop made by Antoni, [link to repo](https://github.com/tonidano/Workshop_Ani
 ## Exercices
 ##### Objective: realise a one-pager with several animated sections based on scroll. 
 
-* Theory : [GSAP](././GSAP)
-* Exercice : [1 - Header Sliding Panels](./Exercice_1)
-* Theory : [ScrollMagic](././ScrollMagic)
-* Exercice : [2 - Cards](././Exercice_2)
-* Exercice : [3 - Frame](././Exercice_3)
-* Exercice : [4 - Footer Square](././Exercice_4)
-* Exercice : [5 - Open Book](././Exercice_5)
-* Exercice : [6 - Sandpit](././Exercice_6)
+* Theory : GSAP
+* Exercice : 1 - Header Sliding Panels
+* Theory : ScrollMagic
+* Exercice : 2 - Cards
+* Exercice : 3 - Frame
+* Exercice : 4 - Footer Square
+* Exercice : 5 - Open Book
 
 
 !!! This is not responsive !!!
